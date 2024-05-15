@@ -1,65 +1,35 @@
-title : "Items"
+title : "Pautas Prioritárias"
 content: |
   This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
+  - name : "Turismo Eficiente"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style2 major fa-gem"
 
   # feature item loop
-  - name : "Two"
+  - name : "Empreendedorismo e Comércio local"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-save"
     
   # feature item loop
-  - name : "Three"
+  - name : "Empregabilidade e Geração de Renda"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-chart-bar"
     
   # feature item loop
-  - name : "Four"
+  - name : "Cultura e Economia Solidária"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-wifi"
     
   # feature item loop
-  - name : "Five"
+  - name : "Mobilidade Urbana"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-cog"
     
   # feature item loop
-  - name : "Six"
+  - name : "Esporte e Lazer"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style2 major fa-paper-plane"
-    
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-    
-  # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-    
-  # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
-    
-  # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
-    
-  # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
-    
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
-    
+        
