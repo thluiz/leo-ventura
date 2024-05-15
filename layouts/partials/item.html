@@ -1,5 +1,5 @@
 <section>
-    <span class="icon {{ .style }}"></span>
+    <span class="icon {{ .style }}" {{ with .id }} id="{{ . }}"{{ end }}></span>
     <h3>{{ .name }}</h3>
     <p>{{ .content }}</p>
 </section>
