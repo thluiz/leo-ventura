@@ -1,9 +1,10 @@
 ####################### Spotlight #########################
+id: "second"
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Minha Trajetória"
 content: |
   Formado em Administração de Empresas...
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Para onde vamos?"
+  link: "#luta"
 image: "images/spotlight02.jpg"

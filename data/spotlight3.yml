@@ -1,6 +1,6 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-id: "first"
+id: "luta"
 title : "Lutarei por uma Petrópolis"
 subtitle: |
  Vigorosa, dinâmica e economicamente Sustentável
@@ -13,6 +13,6 @@ content: |
   Ética...
 
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Pautas"
+  link: "#pautas"
 image: "images/spotlight03.jpg"
