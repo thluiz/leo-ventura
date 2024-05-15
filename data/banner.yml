@@ -1,8 +1,6 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Quem é o Léo Ventura?"
-subtitle: |
-  teste
 content : |
   Léo Ventura, 43 anos, petropolitano, empreendedor, proprietário do café Carioca, corretor de imóveis, marido da Sandra, Pai da Giulliem apaixonado por música e tutor da Lolla.
 button:
