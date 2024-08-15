@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 id: "second"
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Minha Trajetória"
+title : "Por que ser Candidato?"
 content: |
-  Formado em Administração de Empresas...
+  Assim como você sou um apaixonado por Petrópolis e conheço bem todas as dificuldades que nossa cidade enfrenta, principalmente após a pandemia de 2020 e as tragédias de 2022, eu acredito que com o engajamento de pessoas que possuam legitimidade e autoridade para legislar e representar os anseios da nossa população seremos capazes de reverter os impactos causados na economia local e na vida das famílias petropolitanas. 
 button: 
   label: "Para onde vamos?"
   link: "#luta"
-image: "images/spotlight02.jpg"
+image: "images/Banner01.jpg"

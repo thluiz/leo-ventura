@@ -1,34 +1,18 @@
 id: "pautas"
-title : "Pautas Prioritárias" 
+title : "Missão, visão e valores" 
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Turismo Eficiente"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-gem"
+  - name : "Missão"
+    content : "Inspirar as pessoas a reconquistarem a crença de uma Petrópolis mais próspera, dinâmica e feliz."
+    style : "style2 major fa-bullseye"
 
   # feature item loop
-  - name : "Empreendedorismo e Comércio local"
+  - name : "Visão"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+    style : "solid style2 major fa-eye"
     
   # feature item loop
-  - name : "Empregabilidade e Geração de Renda"
+  - name : "Valores"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
-    
-  # feature item loop
-  - name : "Cultura e Economia Solidária"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
-    
-  # feature item loop
-  - name : "Mobilidade Urbana"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
-    
-  # feature item loop
-  - name : "Esporte e Lazer"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-        
+    style : "solid style2 major fa-gem"

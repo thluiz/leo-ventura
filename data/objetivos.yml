@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "luta"
+title : "Meus Objetivos"
+content: |
+  Cuidar da nossa gente, legislar para o desenvolvimento econômico e social e fiscalizar o Poder Executivo, cobrar ações que gerem emprego/renda e avanços no Turismo, sem esquecer da Mobilidade Urbana e na Qualidade de vida do nosso povo são minhas prioridades, onde coloco toda minha dedicação, meu esforço e meu comprometimento.
+button: 
+  label: "Pautas"
+  link: "#pautas"
+image: "images/spotlight03.jpg"

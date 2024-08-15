@@ -11,4 +11,7 @@
     {{ with .image }}<div class="image">
         <img src="{{ . }}" alt="" />
     </div>{{ end }}
+    {{ with .custom_image }}<div class="image">
+        <img src="{{ .src }}" alt="" style="object-position: right top"/>
+    </div>{{ end }}
 </section>

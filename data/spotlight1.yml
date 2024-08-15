@@ -1,10 +1,12 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Petropolitano, Empreendedor, Família"
+title : "Minha Luta pelo comércio local"
 content: |
-  Nascido na Estrada da Saudade, Filho da Dona Ruth e do Antônio...
+  Eu luto incansavelmente pelo comércio local, buscando desenvolvimento econômico e social e geração de emprego para o povo petropolitano. Nessa luta participei ativamente das reuniões que discutiram a recuperação econômica da cidade no pós tragédias de 2022. O ano de 2023 foi marcante para mim quando dei inicio ao projeto de lei que trouxe a prorrogação do vencimento das linhas de créditos emergenciais da AGERio garantindo aos empreendedores mais 12 meses de carência . Em 2024 após receber inúmeros pedidos de ajuda de comerciantes, empreendedores e empresários conquistamos na ALERJ, com um novo projeto de lei, uma nova carência prorrogando para 2025 o inicio da pagamento. Os 24 meses a mais de carência (2023/2024) que conquistamos garantiu o emprego de mais de 3 mil petropolitanas e o sustento de suas famílias, além de trazer esperança para o comércio local que desde 2020 enfrenta grandes desafios.
 button: 
-  label: "Como chegou até aqui?"
+  label: "Por que ser Candidato?"
   link: "#second"
-image: "images/leo01.jpg"
+custom_image: 
+  src: "images/banner.jpg"
+  style: "object-position: right top;"

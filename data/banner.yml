@@ -1,10 +1,12 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Quem é o Léo Ventura?"
+title : "Minha História com Petrópolis:"
 content : |
-  Léo Ventura, 43 anos, petropolitano, empreendedor, proprietário do café Carioca, corretor de imóveis, marido da Sandra, Pai da Giulliem apaixonado por música e tutor da Lolla.
+  Meu nome é Léo Ventura, petropolitano com muito orgulho. Aos 43 anos, carrego no coração as memórias do Bairro Estrada da Saudade, onde nasci e cresci. Casado com a Sandra e pai da adorável Giullie, honro a memória do meu pai, Sr. Antônio, e me inspiro na força de minha mãe, Dona Ruth. Como irmão da Mayara e do Nathan, aprendi desde cedo o valor da família e da união. 
+  <br /><br />
+  Durante muito tempo trabalhei no comércio local, lá construí uma sólida trajetória profissional com mais de 15 anos como comerciário, onde também tive grandes conquistas como minha Graduação em Administração. Sempre perseverando, cheguei a posições de destaque em uma multinacional de Telecomunicações. Meu espírito empreendedor é movido por uma paixão genuína por Petrópolis. E, assim como você, tenho esperança e acredito que o empreendedorismo é a chave para o desenvolvimento econômico e social, impactando positivamente a economia local e o futuro das famílias petropolitanas.
 button:
   label : "Saiba Mais"
   link : "#first"
-image : "images/banner.jpg"
+image : "images/Banner03.jpg"
 
