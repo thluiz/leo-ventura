@@ -9,4 +9,4 @@ button:
   link: "#second"
 custom_image: 
   src: "images/banner.jpg"
-  style: "object-position: right top;"
+  style: "object-position: left top;"

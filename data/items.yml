@@ -9,10 +9,10 @@ items:
 
   # feature item loop
   - name : "Visão"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Promover o desenvolvimento econômico e social, de forma sustentável, do Município de Petrópolis, fomentando o Turismo eficiente e o avanço da infraestrutura, fortalecendo o comércio local, apoiando o empreendedor e gerando emprego."
     style : "solid style2 major fa-eye"
     
   # feature item loop
   - name : "Valores"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ética, Lealdade, Respeito e comprometimento."
     style : "solid style2 major fa-gem"

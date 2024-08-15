@@ -7,4 +7,6 @@ content: |
 button: 
   label: "Para onde vamos?"
   link: "#luta"
-image: "images/Banner04.jpg"
+custom_image: 
+  src: "images/Banner04.jpg"
+  style: "object-position: right top;"
