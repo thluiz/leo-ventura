@@ -1,9 +1,9 @@
 {{ define "main" }}
 
-	{{ partial "banner" site.Data.banner }}
+	{{ partial "banner-principal" site.Data.bannerprincipal }}
+	{{ partial "banner" site.Data.banner }}	
 	{{ partial "spotlight" site.Data.spotlight1 }}
-	{{ partial "spotlight" site.Data.spotlight2 }}
-	{{ partial "spotlight" site.Data.objetivos }}	
+	{{ partial "spotlight" site.Data.spotlight2 }}	
 	{{ partial "items" site.Data.items }}	
 	{{ partial "footer" . }}
 

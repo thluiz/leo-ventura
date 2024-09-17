@@ -4,9 +4,11 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Por que ser Candidato?"
 content: |
   Assim como você sou um apaixonado por Petrópolis e conheço bem todas as dificuldades que nossa cidade enfrenta, principalmente após a pandemia de 2020 e as tragédias de 2022, eu acredito que com o engajamento de pessoas que possuam legitimidade e autoridade para legislar e representar os anseios da nossa população seremos capazes de reverter os impactos causados na economia local e na vida das famílias petropolitanas. 
+  <br />
+  Cuidar da nossa gente, legislar para o desenvolvimento econômico e social e fiscalizar o Poder Executivo, cobrar ações que gerem emprego/renda e avanços no Turismo, sem esquecer da Mobilidade Urbana e na Qualidade de vida do nosso povo são minhas prioridades, onde coloco toda minha dedicação, meu esforço e meu comprometimento.
 button: 
   label: "Para onde vamos?"
   link: "#luta"
 custom_image: 
-  src: "images/Banner04.jpg"
+  src: "images/spotlight03.jpg"
   style: "object-position: right top;"

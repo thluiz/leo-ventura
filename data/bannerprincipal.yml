@@ -1,0 +1,4 @@
+####################### Banner #########################
+style: "fullscreen onload-image-fade-in onload-content-fade-right fullbanner"
+image : "images/Banner-Principal.png"
+
