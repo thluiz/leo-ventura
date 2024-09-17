@@ -9,6 +9,6 @@ button:
   label : "Saiba Mais"
   link : "#first"
 custom_image: 
-  src: "images/Banner4Final.png"
-  style: "object-position: left top;"
+  src: "images/strip01.png"
+  style: "object-position: center top;"
 

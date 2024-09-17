@@ -67,6 +67,7 @@
 		text-align: center;
 		padding: 0 10vw; /* Responsive padding */
 	}
+
 	.strip {
 		background-image: url('/images/strip01.png');		
 		height: 100vh;
@@ -82,15 +83,16 @@
 		text-align: center;
 		padding: 0 10vw; /* Responsive padding */
 	}
-	@media (max-width: 800px) {
+	@media (max-width: 600px) {
 		.fullbanner {
 			display: none;
 			font-size: 8vw; /* Adjust font size for smaller screens */
 			padding: 0 5vw; /* Adjust padding for smaller screens */
 		}
-		.strip {
-			display: none;
-			font-size: 8vw; /* Adjust font size for smaller screens */
-			padding: 0 5vw; /* Adjust padding for smaller screens */
-		}
+	}
+
+	@media (max-width: 576px) {
+        .hide_on_mobile {
+          display: none;
+        }
 	}
