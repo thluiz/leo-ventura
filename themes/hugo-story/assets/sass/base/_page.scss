@@ -67,12 +67,6 @@
 		text-align: center;
 		padding: 0 10vw; /* Responsive padding */
 	}
-	@media (max-width: 600px) {
-		.fullbanner {
-			font-size: 8vw; /* Adjust font size for smaller screens */
-			padding: 0 5vw; /* Adjust padding for smaller screens */
-		}
-	}
 	.strip {
 		background-image: url('/images/strip01.png');		
 		height: 100vh;
@@ -88,7 +82,7 @@
 		text-align: center;
 		padding: 0 10vw; /* Responsive padding */
 	}
-	@media (max-width: 600px) {
+	@media (max-width: 800px) {
 		.fullbanner {
 			display: none;
 			font-size: 8vw; /* Adjust font size for smaller screens */
