@@ -83,6 +83,7 @@
 		text-align: center;
 		padding: 0 10vw; /* Responsive padding */
 	}
+
 	@media (max-width: 600px) {
 		.fullbanner {
 			display: none;
@@ -95,4 +96,10 @@
         .hide_on_mobile {
           display: none;
         }
+		.fullbanner {
+			display: none;
+		}
+		.strip {
+			display: none;
+		}
 	}
