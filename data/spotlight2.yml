@@ -11,4 +11,4 @@ button:
   link: "#luta"
 custom_image: 
   src: "images/spotlight03.jpg"
-  style: "object-position: right top;"
+  style: "object-position: center top;"

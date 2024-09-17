@@ -8,5 +8,7 @@ content : |
 button:
   label : "Saiba Mais"
   link : "#first"
-image : "images/Banner4Final.png"
+custom_image: 
+  src: "images/Banner4Final.png"
+  style: "object-position: left top;"
 

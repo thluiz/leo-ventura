@@ -47,15 +47,50 @@
 
 	}
 
-	.fullbanner {
-		background-image: url('your-image.jpg');
+	body, html {
 		height: 100%;
-		background-position: center;
+		margin: 0;
+	}
+
+	.fullbanner {
+		background-image: url('/images/Banner-Principal.png');		
+		height: 100vh;
+		background-attachment: fixed;
+		background-position: center top;
 		background-repeat: no-repeat;
 		background-size: cover;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		color: white;
-		font-size: 2em;
+		font-size: 5vw; /* Responsive font size */
+		text-align: center;
+		padding: 0 10vw; /* Responsive padding */
+	}
+	@media (max-width: 600px) {
+		.fullbanner {
+			font-size: 8vw; /* Adjust font size for smaller screens */
+			padding: 0 5vw; /* Adjust padding for smaller screens */
+		}
+	}
+	.strip {
+		background-image: url('/images/strip01.png');		
+		height: 100vh;
+		background-attachment: fixed;
+		background-position: center top;
+		background-repeat: no-repeat;
+		background-size: cover;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		color: white;
+		font-size: 5vw; /* Responsive font size */
+		text-align: center;
+		padding: 0 10vw; /* Responsive padding */
+	}
+	@media (max-width: 600px) {
+		.fullbanner {
+			font-size: 8vw; /* Adjust font size for smaller screens */
+			padding: 0 5vw; /* Adjust padding for smaller screens */
+		}
 	}

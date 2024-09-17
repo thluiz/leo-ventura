@@ -12,6 +12,6 @@
         <img src="{{ . }}" alt="" />
     </div>{{ end }}
     {{ with .custom_image }}<div class="image">
-        <img src="{{ .src }}" alt="" style="object-position: right top"/>
+        <img src="{{ .src }}" alt="" style="{{ .style }}"/>
     </div>{{ end }}
 </section>
