@@ -84,15 +84,7 @@
 		padding: 0 10vw; /* Responsive padding */
 	}
 
-	@media (max-width: 600px) {
-		.fullbanner {
-			display: none;
-			font-size: 8vw; /* Adjust font size for smaller screens */
-			padding: 0 5vw; /* Adjust padding for smaller screens */
-		}
-	}
-
-	@media (max-width: 576px) {
+	@media (max-width: 1000px) {
         .hide_on_mobile {
           display: none;
         }
