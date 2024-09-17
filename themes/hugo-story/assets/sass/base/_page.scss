@@ -90,6 +90,12 @@
 	}
 	@media (max-width: 600px) {
 		.fullbanner {
+			display: none;
+			font-size: 8vw; /* Adjust font size for smaller screens */
+			padding: 0 5vw; /* Adjust padding for smaller screens */
+		}
+		.strip {
+			display: none;
 			font-size: 8vw; /* Adjust font size for smaller screens */
 			padding: 0 5vw; /* Adjust padding for smaller screens */
 		}
