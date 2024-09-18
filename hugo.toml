@@ -16,7 +16,7 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#baseURL = "https://leoventura.com.br"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
@@ -34,3 +34,6 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 
 [Params.social]
+github = "https://github.com/thluiz/leo-ventura"
+email = "contato@leoventura.com.br"
+instagram = "https://instagram.com/leoventurarj"
